@@ -1,0 +1,81 @@
+[
+  {
+    "type": "office",
+    "addressLine1": "100 Market Street",
+    "addressLine2": "Suite 300",
+    "city": "San Francisco",
+    "country": "USA",
+    "officeCode": 1,
+    "phone": "+1 650 219 4782",
+    "postalCode": "94080",
+    "state": "CA",
+    "territory": "NA"
+  },
+  {
+    "type": "office",
+    "addressLine1": "1550 Court Place",
+    "addressLine2": "Suite 102",
+    "city": "Boston",
+    "country": "USA",
+    "officeCode": 2,
+    "phone": "+1 215 837 0825",
+    "postalCode": "02107",
+    "state": "MA",
+    "territory": "NA"
+  },
+  {
+    "type": "office",
+    "addressLine1": "523 East 53rd Street",
+    "addressLine2": "apt. 5A",
+    "city": "NYC",
+    "country": "USA",
+    "officeCode": 3,
+    "phone": "+1 212 555 3000",
+    "postalCode": "10022",
+    "state": "NY",
+    "territory": "NA"
+  },
+  {
+    "type": "office",
+    "addressLine1": "43 Rue Jouffroy D'abbans",
+    "city": "Paris",
+    "country": "France",
+    "officeCode": 4,
+    "phone": "+33 14 723 4404",
+    "postalCode": "75017",
+    "territory": "EMEA"
+  },
+  {
+    "type": "office",
+    "addressLine1": "4-1 Kioicho",
+    "city": "Tokyo",
+    "country": "Japan",
+    "officeCode": 5,
+    "phone": "+81 33 224 5000",
+    "postalCode": "102-8578",
+    "state": "Chiyoda-Ku",
+    "territory": "Japan"
+  },
+  {
+    "type": "office",
+    "addressLine1": "5-11 Wentworth Avenue",
+    "addressLine2": "Floor #2",
+    "city": "Sydney",
+    "country": "Australia",
+    "officeCode": 6,
+    "phone": "+61 2 9264 2451",
+    "postalCode": "NSW 2010",
+    "territory": "APAC"
+  },
+  {
+    "type": "office",
+    "addressLine1": "25 Old Broad Street",
+    "addressLine2": "Level 7",
+    "city": "London",
+    "country": "UK",
+    "officeCode": 7,
+    "phone": "+44 20 7877 2041",
+    "postalCode": "EC2N 1HN",
+    "territory": "EMEA"
+  }
+]
